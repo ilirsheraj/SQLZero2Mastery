@@ -1,1 +1,1 @@
-# SQLZero2Mastery
+SQL course offered in Udemy.
